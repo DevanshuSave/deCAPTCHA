@@ -25,4 +25,3 @@ The project is a MATLAB tool to decipher CAPTCHA images for 10 different classes
 ### References ###
 
 * [1] http://www.captcha.net/
-* [2] 
